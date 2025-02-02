@@ -41,11 +41,11 @@ ng test
 ```
 
 ## Code Coverage Report
-```
+
 =============================== Coverage summary ===============================
 ![code coverage](./public/codecoverage.png)
 
-```
+
 
 ## Troubleshooting
 - Ensure localStorage data is valid JSON to prevent parsing errors.
