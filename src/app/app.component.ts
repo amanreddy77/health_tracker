@@ -74,7 +74,7 @@ interface WorkoutEntry {
     <button
       type="submit"
       [disabled]="!workoutForm.form.valid"
-      class="w-full py-3 bg-gray-600 text-white font-semibold rounded-lg hover:bg-gray-900 disabled:bg-gray-400 cursor-pointer"
+      class="w-full py-5 bg-gray-600 text-white font-semibold rounded-lg hover:bg-gray-900 disabled:bg-gray-400 cursor-pointer"
     >
       Add Workout
     </button>
