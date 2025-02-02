@@ -43,11 +43,7 @@ ng test
 ## Code Coverage Report
 ```
 =============================== Coverage summary ===============================
-Statements   : 84.53% (82/97)
-Branches     : 68.18% (15/22)
-Functions    : 93.93% (31/33)
-Lines        : 85.86% (79/92)
-================================================================================
+You can view the full [HTML Coverage Report here](https://health_tracker.github.io/your-repo-name/index.html).
 ```
 
 ## Troubleshooting
