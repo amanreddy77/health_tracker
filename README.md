@@ -1,5 +1,5 @@
 # Project Title
-
+HEALTH TRACKER 
 ## Description
 This project is a workout tracking application developed using Angular. It provides features for managing user workouts, tracking progress, and visualizing data with charts. The app utilizes localStorage to persist workout data, ensuring users can retain their information even after closing the application.
 
