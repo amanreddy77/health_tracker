@@ -19,7 +19,7 @@ This project is a workout tracking application developed using Angular. It provi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/workout-tracker.git
+   git clone https://github.com/amanreddy77/health_tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
