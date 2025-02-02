@@ -74,7 +74,7 @@ interface WorkoutEntry {
     <button
       type="submit"
       [disabled]="!workoutForm.form.valid"
-      class="w-full py-3 mt-1 bg-gray-600 text-white font-semibold rounded-lg hover:bg-gray-900 disabled:bg-gray-400 cursor-pointer"
+      class="w-full py-3 mt-4 bg-gray-600 text-white font-semibold rounded-lg hover:bg-gray-900 disabled:bg-gray-400 cursor-pointer"
     >
       Add Workout
     </button>
@@ -83,7 +83,7 @@ interface WorkoutEntry {
   <div class="mt-12">
     <h2 class="text-xl font-semibold text-gray-800 mb-4">Workout Entries</h2>
 
-    <div class="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4 mb-4">
+    <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 mb-4">
       <input
         type="text"
         placeholder="Search by name"
