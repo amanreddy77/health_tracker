@@ -43,7 +43,8 @@ ng test
 ## Code Coverage Report
 ```
 =============================== Coverage summary ===============================
-You can view the full [HTML Coverage Report here](https://health_tracker.github.io/your-repo-name/index.html).
+![code coverage](./public/codecoverage.png)
+
 ```
 
 ## Troubleshooting
