@@ -89,7 +89,7 @@ interface WorkoutEntry {
         placeholder="Search by name"
         [(ngModel)]="searchTerm"
         (ngModelChange)="applyFilters()"
-        class="w-full p-3 border border-gray-900 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+        class="w-full p-3 border mr-10 border-gray-900 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
       />
       <select
         [(ngModel)]="filterType"
